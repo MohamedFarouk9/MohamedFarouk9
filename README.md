@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi, I'm Omar Badr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center">👋 Hi, I'm Mohamed Farouk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
 
 <div align="center">
   <h3>Passionate Software Engineer</h3>
@@ -11,7 +11,7 @@
 
 - 🌱 Learning **NodeJS Golang**
 - 💬 Ask me about **PHP, Laravel, MySQL, OOP, Docker**
-- 📫 Reach me at: **omarbadr167@gmail.com**
+- 📫 Reach me at: **medofarouk007@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
 
 ---
