@@ -12,7 +12,7 @@
 - 🌱 Learning **NodeJS Golang**
 - 💬 Ask me about **PHP, Laravel, MySQL, OOP, Docker**
 - 📫 Reach me at: **medofarouk007@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1Zap2QdCoitmCyJ0yelrceWTX8exiIdr1/view)
+- 📄 [My Resume](https://drive.google.com/file/d/1PjegrqVkfby1idcSUB_-RbTFmuyZgrWh/view?usp=drive_link)
 
 ---
 
@@ -20,11 +20,12 @@
 
 <div align="center">
   
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/3omarbadr)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3omarbadr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3omarbadr)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14984910)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/3omarbadr)
+<!--[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/3omarbadr)-->
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3omarbadr)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-farouk97/)
+<!-- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14984910) -->
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/medo.farok.5)
 
 </div>
 
